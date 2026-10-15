@@ -1,0 +1,10 @@
+out/
+*.log
+*.wav
+*.mp3
+*.mp4
+*.png
+*.jpg
+*.safetensors
+node_modules/
+__pycache__/
